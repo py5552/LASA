@@ -1,2 +1,2 @@
 # LASA
- Creativty project
+ Creativity project
