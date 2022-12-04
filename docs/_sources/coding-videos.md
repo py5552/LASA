@@ -1,6 +1,6 @@
-# Coding vidoes
+# Coding videos
 
-Welcome to my coding videos of my code `in Python` I recored each video covering a seperate `part of coding.` **These video should help you learn how to code basics in Python**.
+Welcome to my coding videos of my code `in Python` I recorded each video covering a separate `part of coding.` **These videos should help you learn how to code basics in Python**.
 
 ## Absolute basics
 These are what I determine to be **basics** and **include how to create a variable, how to setup code, and how to do operations**
