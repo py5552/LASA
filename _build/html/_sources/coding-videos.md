@@ -14,6 +14,16 @@ Click <a href="https://www.youtube.com/watch?v=IM3vqrgG-eA"><b>here</b></a> to v
 *I tried to embed a video on to the page but it doesn't seem possible with JupyterBook.*
 `````
 
+
+
+
+`````{admonition} Video
+:class: tip
+<a href="https://youtu.be/3aKoNuIR0Ac"><b>Strings</b></a>
+
+This video will show the *basics* of `strings` such as simple and muli-line strings. Also includes how to use ***`str()`***
+`````
+
 ## Intermediate
 
 `These cover more advanced topics such as booleans, if statements, and code that uses more than one apspect.`
