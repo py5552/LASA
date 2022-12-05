@@ -35,12 +35,12 @@ This video will show the *basics* of `strings` such as simple and muli-line stri
 I would ***recommend*** using jupyter notebook and visual studio code for this. **To install VS code go to code.visualstudio.com.** now open up the terminal and type **pip install jupyter notebook**,
 when this is done type in **jupyter notebok**. Then go to your browser put in the link and you are good to go.
  
-```{video}
+```{important}
 I am using python 3.10
 ```
-
+```{warning}
 These vidoes will eventually be outdated
-
+```
 
 ## Weird tech stuff
 
@@ -56,6 +56,6 @@ These will include some random how tos and stuff. If you want a suggestion just 
 ```{bibliography}
 ```
 
-## Learn more
-
+```{see also}
 `You can learn more at` [jupyterbook.org](https://jupyterbook.org).
+```
