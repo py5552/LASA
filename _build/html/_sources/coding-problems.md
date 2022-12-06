@@ -14,7 +14,7 @@ kernelspec:
 ---
 
 # Coding Problems
-These coding problems are supposed to help you. Your **Goal** is to **fix** the code. Each problem will relate to a video. Have Fun!
+These coding problems are supposed to help you. Your **Goal** is to **fix** the code. Each problem will have some *`errors`* in it. You should *copy* and *paste* the code into your ***own editor*** and try to fix it. Each problem will relate to a video. Have Fun!
 
 ## If, elif, and else statments
 
@@ -29,30 +29,18 @@ def yes_or_no(x):
   else:
     return "maybe"
 ```
-
-
-When your book is built, the contents of any `{code-cell}` blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
-in-line with the rest of your content.
-
-```{seealso}
-Jupyter Book uses [Jupytext](https://jupytext.readthedocs.io/en/latest/) to convert text-based files to notebooks, and can support [many other text-based notebook files](https://jupyterbook.org/file-types/jupytext.html).
+```{tip}
+Read the error message
 ```
 
-## Create a notebook with MyST Markdown
-
-MyST Markdown notebooks are defined by two things:
-
-1. YAML metadata that is needed to understand if / how it should convert text files to notebooks (including information about the kernel needed).
-   See the YAML at the top of this page for example.
-2. The presence of `{code-cell}` directives, which will be executed with your book.
-
-That's all that is needed to get started!
-
-## Quickly add YAML metadata for MyST Notebooks
-
-If you have a markdown file and you'd like to quickly add YAML metadata to it, so that Jupyter Book will treat it as a MyST Markdown Notebook, run the following command:
-
+## Strings
+```{code-cell}
+x = 10
+print "I like ducks
+I really like ducks
+I really want " + x + " ducks"
 ```
-jupyter-book myst init path/to/markdownfile.md
+
+```{important}
+There can be than one error
 ```

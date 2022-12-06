@@ -56,6 +56,6 @@ These will include some random how tos and stuff. If you want a suggestion just 
 ```{bibliography}
 ```
 
-```{see also}
+```{seealso}
 `You can learn more at` [jupyterbook.org](https://jupyterbook.org).
 ```
