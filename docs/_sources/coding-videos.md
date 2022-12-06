@@ -32,7 +32,8 @@ This video will show the *basics* of `strings` such as simple and muli-line stri
 `````{admonition} Video
 :class: tip
 <a href="https://www.youtube.com/watch?v=2A_vRDSc3os"><b>Booleans</b></a>
-<a hrek="https://www.youtube.com/watch?v=DRw7_twSZKU"><b>Another Boolean video</b></a>
+
+Another <a hrek="https://youtu.be/DRw7_twSZKU"><b>Boolean</b></a> Video
 `````
 These videos will cover the *basics* of **booleans**.
 
