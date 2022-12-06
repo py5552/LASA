@@ -36,5 +36,5 @@ I really want " + x + " ducks"
 
 
 # ```{important}
-# There can be than one error
+# There can be more than one error
 # ```
