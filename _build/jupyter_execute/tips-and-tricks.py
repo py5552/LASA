@@ -3,11 +3,11 @@
 
 # # Coding tips and tricks!
 # 
-# Here are some `tips and trick` for coding in python
+# Here are some `tips and tricks` for coding in Python.
 # 
 # ## +=, -=
 # 
-# This trick will save you a lot of time(x is a int or float varibale, y is a also an int or float)
+# This trick will save you a lot of time (x is a int or float varibale, y is a also an int or float)
 # 
 # **Instead of writing** x = x + y or x = x - y
 # 
@@ -17,9 +17,9 @@
 # 
 # ## How it works
 # 
-# I will have a quick section explaining what the trick is and then some code!
+# In the following there is a brief section explaining what the trick is and then some code!
 # 
-# ## What level?
+# ## What level, beginner, intermediate or advanced?
 # 
 # This will have all levels!
 
@@ -40,7 +40,7 @@ name_of_function(1,5)
 
 # `Libraries`
 # 
-# These are collections of **pre-written code** which you can use to make certain tasks easier. For example I can use **NumPy** for more complex math. To download a library you either have to use **pip**(on windows) or **anaconda**(on mac). To use pip got to **cmd**(comand line) run it as admin and type in **pip install (the name of the library)**
+# These are collections of **pre-written code** which you can use to make certain tasks easier. For example I can use **NumPy** for more complex math. To download a library you either have to use **pip** (on windows) or **anaconda** (on mac). To use pip go to **cmd** (comand line) run it as admin and type in **pip install (the name of the library)**
 
 # In[2]:
 

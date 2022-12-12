@@ -6,7 +6,7 @@
 # 
 # ## If, elif, and else statments
 # 
-# This code is supposed to print yes is its A, no if its B, and maybe if its neither
+# This code is supposed to print *`yes`* if it's A, *`no`* if it's B, and *`maybe`* if it's neither.
 
 # In[1]:
 
@@ -38,3 +38,8 @@ I really want " + x + " ducks"
 # ```{important}
 # There can be more than one error
 # ```
+# 
+# `````(admonition) Stuck?
+# :class: tip
+# Watch <a href="https://youtu.be/3aKoNuIR0Ac"><b>this</b></a>
+# `````

@@ -1,6 +1,6 @@
 # Coding videos
 
-Welcome to my coding videos of my code `in Python` I recorded each video covering a separate `part of coding.` **These videos should help you learn how to code basics in Python**.
+Welcome to my coding videos of my code `in Python` I recorded each video covering a separate `part of coding.` **These videos should help you learn how to code the basics of Python**.
 
 ## Absolute basics
 These are what I determine to be **basics** and **include how to create a variable, how to setup code, and how to do operations**
@@ -13,7 +13,7 @@ Click <a href="https://www.youtube.com/watch?v=0JugqYuQGQA"><b>here</b></a> to v
 `````
 
 ```{warning}
-These videos might use skills from other areas shuch as `functions`.
+These videos might use skills from other areas such as `functions`.
 ```
 
 `````{admonition} Video
@@ -33,7 +33,7 @@ This video will show the *basics* of `strings` such as simple and muli-line stri
 :class: tip
 <a href="https://www.youtube.com/watch?v=2A_vRDSc3os"><b>Booleans</b></a>
 
-Another <a hrek="https://youtu.be/DRw7_twSZKU"><b>Boolean</b></a> Video
+Another <a href="https://youtu.be/DRw7_twSZKU"><b>Boolean</b></a> Video
 `````
 These videos will cover the *basics* of **booleans**.
 
@@ -62,7 +62,7 @@ These vidoes will eventually be outdated
 ## Weird tech stuff
 
 ```{note}
-These will include some random how tos and stuff. If you want a suggestion just leave a comment and I will try to add it
+These will include software(like jupyterbook) that doesn't fall into any category above.
 ```
 **How to embed a video in jupyter book!**
 
