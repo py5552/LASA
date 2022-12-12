@@ -7,7 +7,7 @@
 # 
 # ## +=, -=
 # 
-# This trick will save you a lot of time (x is a int or float varibale, y is a also an int or float)
+# This trick will save you a lot of time (x is a int or float variable, y is a also an int or float)
 # 
 # **Instead of writing** x = x + y or x = x - y
 # 

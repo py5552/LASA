@@ -20,14 +20,14 @@ These videos might use skills from other areas such as `functions`.
 :class: tip
 <a href="https://youtu.be/3aKoNuIR0Ac"><b>Strings</b></a>
 
-This video will show the *basics* of `strings` such as simple and muli-line strings. Also includes how to use ***`str()`***
+This video will show the *basics* of `strings` such as simple and multi-line strings. Also includes how to use ***`str()`***
 `````
 
 
 
 ## Intermediate
 
-`These cover more advanced topics such as booleans, if statements, and code that uses more than one apspect.`
+`These cover more advanced topics such as booleans, if statements, and code that uses more than one aspect.`
 
 `````{admonition} Video
 :class: tip
@@ -62,7 +62,7 @@ These vidoes will eventually be outdated
 ## Weird tech stuff
 
 ```{note}
-These will include software(like jupyterbook) that doesn't fall into any category above.
+These will include software (like jupyterbook) that doesn't fall into any category above.
 ```
 **How to embed a video in jupyter book!**
 
