@@ -39,7 +39,9 @@ I really want " + x + " ducks"
 # There can be more than one error
 # ```
 # 
-# `````(admonition) Stuck?
+# `````{admonition} Stuck?
 # :class: tip
-# Watch <a href="https://youtu.be/3aKoNuIR0Ac"><b>this</b></a>
+# <a href="https://youtu.be/3aKoNuIR0Ac"><b>Here</b></a>
+# 
+# is my video on `strings`
 # `````
